@@ -4,11 +4,30 @@ body {
   padding: 0;
 }
 
+
 p {
+
+
+.logo {
+  text-align: center;
+  color: #7A7A7A;
+  font-size: 52px;
+  font-family: Montserrat Alternates;
+  font-style: italic;
+  font-weight: 900;
+  line-height: 64px;
+  letter-spacing: 7.80px;
+}
+
+p{
+
   color: red;
   background-color: #aaa;
 }
 
+
 li {
   color: blueviolet;
 }
+
+
