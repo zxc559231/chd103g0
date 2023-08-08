@@ -4,6 +4,7 @@ body {
   padding: 0;
 }
 
+
 .logo {
   text-align: center;
   color: #7A7A7A;
@@ -14,3 +15,9 @@ body {
   line-height: 64px;
   letter-spacing: 7.80px;
 }
+
+p{
+  color: red;
+  background-color: #aaa;
+}
+
