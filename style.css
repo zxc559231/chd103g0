@@ -4,10 +4,6 @@ body {
   padding: 0;
 }
 
-
-p {
-
-
 .logo {
   text-align: center;
   color: #7A7A7A;
@@ -19,7 +15,7 @@ p {
   letter-spacing: 7.80px;
 }
 
-p{
+p {
 
   color: red;
   background-color: #aaa;
@@ -29,5 +25,3 @@ p{
 li {
   color: blueviolet;
 }
-
-
